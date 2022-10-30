@@ -1,5 +1,5 @@
 ## Prerequisites
-- JDK 1.8 or later
+- Use JDK 11 at all stages - # yum instal openjdk-11-jdk -y
 - Maven 3 or later
 - MySQL 5.6 or later
 
