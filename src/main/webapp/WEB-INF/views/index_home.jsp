@@ -120,7 +120,7 @@
 	    </p>
 	    <p><strong>Address:</strong>  Flat no: 205, 2nd Floor,NILGIRI Block,Aditya Encalve,Ameerpet, Hyderabad-16</p> 
 	    <p><strong>Ph No: </strong>  +91-8072966260</p>
-		<p><strong>E-Mail ID :</strong>  infratute@gmail.com</p>
+		<p><strong>E-Mail ID :</strong>infratute@gmail.com</p>
   	</div>
    </div>
   
@@ -145,7 +145,7 @@
 
 <!-- Footer -->
 <footer class="w3-center  w3-padding-16" style="background-color:#1C3B47 ">
-  <p style="color:#FFFFFF ">Copyright @2017 <a href="#"  target="_blank" class="w3-hover-text-green"> Infratute.com</a></p>
+  <p style="color:#FFFFFF ">Copyright @2017 <a href="#"  target="_blank" class="w3-hover-text-green">Infratute.com</a></p>
 </footer>
 
 
