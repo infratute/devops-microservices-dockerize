@@ -1,3 +1,6 @@
+THIS IS A READY TO RUN DOCKER COMPOSE SET.
+######### Just clone and run the docker compose, all the containers will come up ############
+
 ## Prerequisites
 - Use JDK 11 at all stages - # yum instal openjdk-11-jdk -y
 - Maven 3 or later
