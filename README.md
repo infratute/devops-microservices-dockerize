@@ -1,5 +1,5 @@
-THIS IS A READY TO RUN DOCKER COMPOSE SET.
-######### Just clone and run the docker compose, all the containers will come up ############
+This fileset requires a maven build of the Artifact.
+######### Test it with multi-stage Dockerfile  ############
 
 ## Prerequisites
 - Use JDK 11 at all stages - # yum instal openjdk-11-jdk -y
